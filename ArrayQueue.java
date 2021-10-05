@@ -7,7 +7,7 @@
 // *****************************************************************************************************
 
 // This is my code at the moment
-
+package java_queue;
 import java.util.*;
 
 public final class ArrayQueue implements QueueInterface {
